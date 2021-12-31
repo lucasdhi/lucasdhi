@@ -3,7 +3,7 @@
 
 - 🔭  Cursando Programação Full Stack 
 - 🌱 Estudando React, Java, HTML, CSS, Bootstrap, JavaScript, SQL, Android e Python
-- 😄 Pronouns:dhi
+
 
 <div align="center">
   <a href="https://github.com/lucasdhi">
